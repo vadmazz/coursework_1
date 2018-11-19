@@ -1,2 +1,2 @@
 # coursework_1
-Space flight
+Programing in SMTU on theme "Space flights"
